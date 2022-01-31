@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buddy4341
 - 👀 I’m interested in ...coding  
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... python but I just started
 - 💞️ I’m looking to collaborate on ... anything easy to start with
 - 📫 How to reach me ...email me at budsetcmail@gmail.com or facebook under Buddy Kainer
 
